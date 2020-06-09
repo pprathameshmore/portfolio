@@ -28,7 +28,6 @@ export class Quote extends Component {
         const { quote, isLoading } = this.state;
 
         console.log('Loading')
-        console.log(quote)
 
         if (isLoading) {
             return <div>Loading...</div>

@@ -38,8 +38,6 @@ export default class Project extends Component {
 
         const { projects } = this.state
 
-        console.log(projects.skillIcons);
-
         const projectUI = projects.map((project, index) => {
             return (<div className="projects" id="projects" >
                 <div className="card shadow-lg p-3 mb-5 bg-white rounded alert">
@@ -74,7 +72,7 @@ export default class Project extends Component {
                             <hr />
                             <div className="col-xs-3">
                                 <a class="btn btn-outline-primary btn-learn btn-block" href={project.projectLearnMoreLink} role="button">Learn more</a>
-                                <a class="btn btn-outline-primary btn-go btn-block" href={project.projectLearnMoreLink} role="button">Go to app</a>
+                                <a class="btn btn-outline-primary btn-go btn-block" href={project.projectGoLink} role="button">Go to app</a>
                             </div>
                         </div>
                     </div>
