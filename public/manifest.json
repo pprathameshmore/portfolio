@@ -1,19 +1,18 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
+  "short_name": "Prathamesh More",
+  "name": "Prathamesh More",
+  "icons": [{
+      "src": "https://avatars2.githubusercontent.com/u/17108186?s=460&v=4",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://avatars2.githubusercontent.com/u/17108186?s=460&v=4",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://avatars2.githubusercontent.com/u/17108186?s=460&v=4",
       "type": "image/png",
       "sizes": "512x512"
     }
