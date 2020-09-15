@@ -13,8 +13,6 @@ export default function Contact() {
                 <div className="row contact-icon-row">
                     <SocialMediaIconsReact className="contact-icon" borderColor="rgba(0,0,0,0.25)" borderWidth="0" borderStyle="solid" icon="linkedin" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(28,186,223,1)" iconSize="3" roundness="49%" url="https://www.linkedin.com/in/prathamesh-more/" size="60" />
                     <div className="contact-icon" />
-                    <SocialMediaIconsReact borderColor="rgba(0,0,0,0.25)" borderWidth="0" borderStyle="solid" icon="xing" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(40,101,103,1)" iconSize="3" roundness="49%" url="https://www.xing.com/profile/Prathamesh_More/cv" size="60" />
-                    <div className="contact-icon" />
                     <SocialMediaIconsReact borderColor="rgba(0,0,0,0.25)" borderWidth="0" borderStyle="solid" icon="github" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(11,11,11,1)" iconSize="3" roundness="49%" url="https://github.com/pprathameshmore/" size="60" />
                     <div className="contact-icon" />
                     <SocialMediaIconsReact borderColor="rgba(0,0,0,0.25)" borderWidth="0" borderStyle="solid" icon="stackoverflow" iconColor="rgba(255,255,255,1)" backgroundColor="rgba(244,139,50,1)" iconSize="3" roundness="49%" url="https://stackoverflow.com/users/6482248/prathamesh-more" size="60" />
