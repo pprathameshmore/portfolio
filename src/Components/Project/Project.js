@@ -13,9 +13,7 @@ export default class Project extends Component {
   }
 
   async componentDidMount() {
-    const projects = await axios.get(
-      "https://pprathameshmore.github.io/projects.json"
-    );
+    const projects = await axios.get("https://prathameshmore.me/projects.json");
     this.setState({
       projects: projects.data,
     });
