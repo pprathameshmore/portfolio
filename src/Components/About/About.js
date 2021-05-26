@@ -13,7 +13,9 @@ export class About extends Component {
   }
 
   async componentDidMount() {
-    const response = await axios.get("http://prathameshmore.me/about.json");
+    const response = await axios.get(
+      "https://raw.githubusercontent.com/pprathameshmore/pprathameshmore.github.io/master/about.json"
+    );
     this.setState({ aboutText: response.data, isLoading: false });
   }
 
