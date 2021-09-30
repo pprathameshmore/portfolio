@@ -18,7 +18,7 @@ export default function Navbar() {
                             className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" title="Know about me" href="#skills">Skills<span
+                        <a className="nav-link" title="Know about my skills" href="#skills">Skills<span
                             className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item">
@@ -26,13 +26,13 @@ export default function Navbar() {
                     </li>
 
                     <li className="nav-item">
-                        <a className="nav-link" title="Say hi!" href="#contact">Contact</a>
+                        <a className="nav-link" title="Lets connect!" href="#contact">Contact</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" title="Learn stuff!" href="https://medium.com/@pprathameshmore">Blog</a>
+                        <a className="nav-link" title="Learn cool stuff!" href="https://medium.com/@pprathameshmore">Blog</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" title="Download my resume!" href="http://bit.ly/prathameshmore">Resume</a>
+                        <a className="nav-link" title="Have a look at my resume!" href="http://bit.ly/prathameshmore">Resume</a>
                     </li>
                 </ul>
                 <span className=" btn navbar-text">
