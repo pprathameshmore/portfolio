@@ -15,7 +15,7 @@ export class Quote extends Component {
 
   async componentDidMount() {
     const response = await axios.get(
-      "https://quote-garden.herokuapp.com/api/v3/quotes/random"
+      "https://quote-garden.onrender.com/api/v3/quotes/random"
     );
     console.log(response.data.data[0]);
     this.setState({
