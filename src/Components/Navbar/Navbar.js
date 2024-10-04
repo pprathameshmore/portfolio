@@ -32,7 +32,7 @@ export default function Navbar() {
                         <a className="nav-link" title="Learn stuff!" href="https://medium.com/@pprathameshmore">Blog</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" title="Download my resume!" href="http://bit.ly/prathameshmore">Resume</a>
+                        <a className="nav-link" title="Download my resume!" href="https://prathameshmore.online/data/resume/PrathameshMore_Deedy_CV.pdf">Resume</a>
                     </li>
                 </ul>
                 <span className=" btn navbar-text">
